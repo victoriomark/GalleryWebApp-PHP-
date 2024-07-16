@@ -1,0 +1,1 @@
+<?phpinclude "../Database/Connect.php";global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST'){    $id = $_POST['Id'];    $query = "DELETE FROM pictures WHERE id = ?";    $stmt = $conn->prepare($query);    $stmt->bind_param('i',$id);    if ($stmt->execute()){        echo 'Please Wait...';    }else{        echo 'error' . mysqli_error($conn);    }}

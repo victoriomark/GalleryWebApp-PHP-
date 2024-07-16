@@ -1,0 +1,1 @@
+<?php$conn = mysqli_connect('localhost','root','','galeryapp');if(!$conn){    die('<h1 class="text-danger">Connection Problem</h1>');}

@@ -1,0 +1,1 @@
+<?php// TO SAVE THE Album id in SESSION when click the open openBTNif($_SERVER['REQUEST_METHOD'] === 'POST'){    session_start();    $_SESSION['AlbumID'] = $_POST['ID'];}
