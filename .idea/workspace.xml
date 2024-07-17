@@ -22,6 +22,14 @@
       <change beforePath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expense_Tracker/Uploads/MyProfile.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expense_Tracker/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auth/GetRegister.php" beforeDir="false" afterPath="$PROJECT_DIR$/Auth/GetRegister.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auth/Logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/Auth/Logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJs/Auth/GetLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/Auth/GetLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJs/Auth/GetRegister.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/Auth/GetRegister.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PortfolioWeb" afterDir="false" />
@@ -45,7 +53,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
@@ -61,7 +69,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/Aldrin_group_space&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/FileUploader&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -79,6 +87,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\FileUploader\View" />
       <recent name="L:\PhpstormProjects\FileUploader\Assets" />
     </key>
   </component>
@@ -128,7 +137,9 @@
       <workItem from="1721088993293" duration="8589000" />
       <workItem from="1721100651155" duration="4969000" />
       <workItem from="1721113110816" duration="4075000" />
-      <workItem from="1721129599642" duration="4107000" />
+      <workItem from="1721129599642" duration="5201000" />
+      <workItem from="1721208754072" duration="8443000" />
+      <workItem from="1721221794044" duration="5275000" />
     </task>
     <servers />
   </component>
