@@ -1179,7 +1179,7 @@
     </schema>
     <schema id="349" parent="1" name="galeryapp">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-07-11.14:39:12</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-07-20.09:15:15</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_general_ci</CollationName>
     </schema>
     <schema id="350" parent="1" name="group_aila_coffee_shop">
@@ -1309,7 +1309,7 @@
       <CollationName>utf8mb4_general_ci</CollationName>
     </table>
     <column id="391" parent="388" name="Id">
-      <AutoIncrement>60</AutoIncrement>
+      <AutoIncrement>71</AutoIncrement>
       <DasType>int(11)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1352,7 +1352,7 @@
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="400" parent="389" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>34</AutoIncrement>
       <DasType>int(11)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1385,7 +1385,7 @@
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="407" parent="390" name="UserId">
-      <AutoIncrement>4</AutoIncrement>
+      <AutoIncrement>11</AutoIncrement>
       <DasType>int(11)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1403,26 +1403,22 @@
       <DasType>varchar(250)|0s</DasType>
       <Position>4</Position>
     </column>
-    <column id="411" parent="390" name="Confirm_pass">
-      <DasType>varchar(250)|0s</DasType>
-      <Position>5</Position>
-    </column>
-    <index id="412" parent="390" name="PRIMARY">
+    <index id="411" parent="390" name="PRIMARY">
       <ColNames>UserId</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="413" parent="390" name="Email">
+    <index id="412" parent="390" name="Email">
       <ColNames>Email</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="414" parent="390" name="PRIMARY">
+    <key id="413" parent="390" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <key id="415" parent="390" name="Email">
+    <key id="414" parent="390" name="Email">
       <UnderlyingIndexName>Email</UnderlyingIndexName>
     </key>
   </database-model>

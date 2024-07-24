@@ -1,1 +1,1 @@
-<?php$conn = mysqli_connect('localhost','root','','galeryapp');if(!$conn){    die('<h1 class="text-danger">Connection Problem</h1>');}
+<?php$conn = mysqli_connect('sql108.infinityfree.com','if0_36676265','CzdXppFAt08jk','if0_36676265_galleryapp');if(!$conn){    die('<h1 class="text-danger">Connection Problem</h1>');}

@@ -22,14 +22,35 @@
       <change beforePath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expense_Tracker/Uploads/MyProfile.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expense_Tracker/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2ff2088c-3e70-46e6-9c0c-088d17d120a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2ff2088c-3e70-46e6-9c0c-088d17d120a3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auth/GetLogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Auth/GetLogin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Auth/GetRegister.php" beforeDir="false" afterPath="$PROJECT_DIR$/Auth/GetRegister.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth/Logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/Auth/Logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/Database/Connect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainJs/Auth/GetLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/Auth/GetLogin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainJs/Auth/GetRegister.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/Auth/GetRegister.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJs/Upload_photos.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/Upload_photos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainJs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MainJs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/CreateAlbum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/CreateAlbum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/DeleteAlbum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/DeleteAlbum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/MakingDelete_photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/MakingDelete_photo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/SavePicture.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/SavePicture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/SaveUpdatedAlbum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/SaveUpdatedAlbum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/UploadImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/UploadImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ViewUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ViewUpdate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ViewUpdatePhotos.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ViewUpdatePhotos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/blog1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/product2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/test.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/uploadAlbum/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/OpenAlbum.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/OpenAlbum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PortfolioWeb" afterDir="false" />
@@ -49,13 +70,30 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Auth/GetLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Auth/GetRegister.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Auth/GetLogin.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Auth/GetRegister.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Upload_photos.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/index.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/View/Register.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -64,32 +102,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/FileUploader&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Register.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "L:/PhpstormProjects/todo_app",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="L:\PhpstormProjects\FileUploader\View" />
       <recent name="L:\PhpstormProjects\FileUploader\Assets" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Register.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FileUploader/FileUploader/View/Register.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Register.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -140,6 +191,25 @@
       <workItem from="1721129599642" duration="5201000" />
       <workItem from="1721208754072" duration="8443000" />
       <workItem from="1721221794044" duration="5275000" />
+      <workItem from="1721256560090" duration="546000" />
+      <workItem from="1721264920936" duration="54000" />
+      <workItem from="1721350083400" duration="643000" />
+      <workItem from="1721374328866" duration="3299000" />
+      <workItem from="1721456233420" duration="11901000" />
+      <workItem from="1721473783759" duration="4827000" />
+      <workItem from="1721481188418" duration="9790000" />
+      <workItem from="1721516225581" duration="4628000" />
+      <workItem from="1721563803822" duration="787000" />
+      <workItem from="1721564795931" duration="10066000" />
+      <workItem from="1721606400810" duration="10580000" />
+      <workItem from="1721624100995" duration="4138000" />
+      <workItem from="1721634740544" duration="2811000" />
+      <workItem from="1721646804571" duration="3393000" />
+      <workItem from="1721653666072" duration="5540000" />
+      <workItem from="1721692732993" duration="8977000" />
+      <workItem from="1721712994880" duration="5263000" />
+      <workItem from="1721734055885" duration="5782000" />
+      <workItem from="1721785269973" duration="1272000" />
     </task>
     <servers />
   </component>
